@@ -1,0 +1,173 @@
+{
+  "brand": {
+    "name": "Cochran Films",
+    "tagline": "Stories that tell themselves",
+    "colors": {
+      "primary": "#667eea",
+      "secondary": "#764ba2",
+      "accent": "#f0f4ff",
+      "text": "#333333",
+      "light": "#f8f9fa",
+      "border": "#e1e5e9"
+    },
+    "logo": "https://static.wixstatic.com/media/aeef42_077a43cf29284001a9453221835fffca~mv2.jpg/BBM_Thumb.jpg"
+  },
+  "portfolio": {
+    "categories": [
+      {
+        "id": "a7b80c6e-f7f3-4320-bd59-38c356ae15df",
+        "name": "Commercials",
+        "color": "#667eea",
+        "icon": "📺"
+      },
+      {
+        "id": "645c4546-93f8-44f9-90cd-04a97b1d1570",
+        "name": "Live Broadcast",
+        "color": "#764ba2",
+        "icon": "📡"
+      },
+      {
+        "id": "e2695731-ce41-46d3-b7ce-cfabbcd2cfd1",
+        "name": "Corporate",
+        "color": "#4a90e2",
+        "icon": "🏢"
+      },
+      {
+        "id": "f32c9bad-76f2-4ac6-9620-d297657c0b82",
+        "name": "Education",
+        "color": "#50c878",
+        "icon": "🎓"
+      },
+      {
+        "id": "4e603484-34c8-4f16-b729-02eca2475ee9",
+        "name": "Shorts",
+        "color": "#ff6b35",
+        "icon": "🎬"
+      },
+      {
+        "id": "e69012ac-b5d1-4cb7-a02b-0e9fe7fbe219",
+        "name": "Podcasts",
+        "color": "#9b59b6",
+        "icon": "🎙️"
+      },
+      {
+        "id": "51161a57-04f7-4b2e-b520-c7392b2b4710",
+        "name": "Events",
+        "color": "#e74c3c",
+        "icon": "🎪"
+      }
+    ],
+    "items": [
+      {
+        "id": "0372a11a-0385-4ae2-94d2-666f8d4939f2",
+        "title": "Evolve Contracting - National Small Business Week Highlight",
+        "description": "DP | Gaffer | Editor | Audio\nShot on Sony FX6: 24-70mm f/2.8\nLights: Aputure Amaran COB 60x on a C-Stand w/lantern Diffuser.\n\n\"The Russell Center helps me build my business with programming that is tailor made for me.\" - Channing Baker, Founder & CEO of Evolve Contractors",
+        "category": "Commercials",
+        "categoryId": "a7b80c6e-f7f3-4320-bd59-38c356ae15df",
+        "thumbnail": "https://static.wixstatic.com/media/aeef42_7a5a1e21bcb349369b5cfce51e197341~mv2.jpg",
+        "video": "https://video.wixstatic.com/video/aeef42_55d75649953a40d4963f44cb2322046f/1080p/mp4/file.mp4",
+        "isFeatured": true,
+        "createdDate": "2025-01-24T09:12:15Z",
+        "status": "PUBLISHED",
+        "tags": ["business", "entrepreneurship", "Russell Center", "small business"]
+      },
+      {
+        "id": "07bddedd-3d06-4c44-b10a-3a2c1db9bcca",
+        "title": "Caribbean Currency Live Vibes",
+        "description": "Experience the vibrant energy of Caribbean Currency's \"Live Vibes\" event, featuring dynamic performances and a celebration of Caribbean culture.",
+        "category": "Live Broadcast",
+        "categoryId": "645c4546-93f8-44f9-90cd-04a97b1d1570",
+        "thumbnail": "https://static.wixstatic.com/media/aeef42_de69c46e54aa466cb4d377baeb26aef0~mv2.jpg",
+        "video": "https://video.wixstatic.com/video/aeef42_d62f6ba8ce04461ab71530a5533a80f5/1080p/mp4/file.mp4",
+        "isFeatured": false,
+        "createdDate": "2025-01-24T04:13:05Z",
+        "status": "PUBLISHED",
+        "tags": ["music", "Caribbean", "live performance", "culture"]
+      },
+      {
+        "id": "09570d68-4234-496c-bc47-30a0bbe1d92a",
+        "title": "Maïré Rosa of eComSpaces - National Small Business Week Highlight",
+        "description": "Meet Maïré Rosa of eComSpaces in this National Small Business Week highlight. Discover her inspiring journey as a leader in e-commerce innovation.",
+        "category": "Commercials",
+        "categoryId": "a7b80c6e-f7f3-4320-bd59-38c356ae15df",
+        "thumbnail": "https://static.wixstatic.com/media/aeef42_a564fa653eee4790a1ea1e66efefe0be~mv2.jpg",
+        "video": "https://video.wixstatic.com/video/aeef42_159032edd60c4680a7539940fc5374d5/1080p/mp4/file.mp4",
+        "isFeatured": false,
+        "createdDate": "2025-01-24T04:21:35Z",
+        "status": "PUBLISHED",
+        "tags": ["e-commerce", "entrepreneurship", "small business", "innovation"]
+      },
+      {
+        "id": "1143bac7-2027-4220-ad7e-53a5d91a19cb",
+        "title": "Andre Dickens Atlanta Mayor Attends Women's Fundraiser During Candidacy",
+        "description": "This video documents Andre Dickens, then a mayoral candidate, attending a powerful women's fundraiser event in Atlanta.",
+        "category": "Corporate",
+        "categoryId": "e2695731-ce41-46d3-b7ce-cfabbcd2cfd1",
+        "thumbnail": "https://static.wixstatic.com/media/aeef42_0d72d5e5a9fd48c8b90bf7641bcf38a1~mv2.jpg",
+        "video": "https://video.wixstatic.com/video/aeef42_ab550ee6a99f4ed08b62e73b22038cb9/1080p/mp4/file.mp4",
+        "isFeatured": true,
+        "createdDate": "2025-01-24T04:26:15Z",
+        "status": "PUBLISHED",
+        "tags": ["politics", "Atlanta", "fundraiser", "women empowerment"]
+      },
+      {
+        "id": "253d03b0-1170-4d3f-99c2-efe4905612ca",
+        "title": "Southern Gas Corporate Insight",
+        "description": "Gain exclusive insights into the Southern Gas industry with this video, showcasing strategic discussions and solutions tailored to the corporate landscape.",
+        "category": "Corporate",
+        "categoryId": "e2695731-ce41-46d3-b7ce-cfabbcd2cfd1",
+        "thumbnail": "https://static.wixstatic.com/media/aeef42_1c289bca3e0b47999bce809fce86fe38~mv2.jpg",
+        "video": "https://video.wixstatic.com/video/aeef42_7881fb57ef814133b8d1282555b62032/1080p/mp4/file.mp4",
+        "isFeatured": false,
+        "createdDate": "2025-01-24T06:42:28Z",
+        "status": "PUBLISHED",
+        "tags": ["energy", "corporate", "Southern Gas", "business insights"]
+      }
+    ]
+  },
+  "socialMedia": {
+    "platforms": [
+      {
+        "name": "Instagram",
+        "icon": "📷",
+        "color": "#E4405F",
+        "enabled": true
+      },
+      {
+        "name": "Facebook",
+        "icon": "📘",
+        "color": "#1877F2",
+        "enabled": true
+      },
+      {
+        "name": "LinkedIn",
+        "icon": "💼",
+        "color": "#0A66C2",
+        "enabled": true
+      },
+      {
+        "name": "Twitter",
+        "icon": "🐦",
+        "color": "#1DA1F2",
+        "enabled": true
+      },
+      {
+        "name": "TikTok",
+        "icon": "🎵",
+        "color": "#000000",
+        "enabled": true
+      },
+      {
+        "name": "YouTube",
+        "icon": "📺",
+        "color": "#FF0000",
+        "enabled": true
+      }
+    ]
+  },
+  "cms": {
+    "version": "1.0.0",
+    "features": ["portfolio", "social-media", "content-scheduling", "analytics"],
+    "lastUpdated": "2025-01-29T20:37:56Z"
+  }
+}
